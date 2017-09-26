@@ -14,6 +14,7 @@ public class BaseActivity extends Activity {
         super.onCreate(savedInstanceState);
         activity = this;
         context = getApplicationContext();
+        // 1.0版本的变化、
 
     }
 
