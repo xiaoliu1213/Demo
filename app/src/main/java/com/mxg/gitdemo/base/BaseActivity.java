@@ -16,6 +16,8 @@ public class BaseActivity extends Activity {
         context = getApplicationContext();
         // 1.0版本的变化、
 
+        // 1.1修改文件
+
     }
 
 }
