@@ -18,6 +18,8 @@ public class BaseActivity extends Activity {
 
         // 1.1修改文件
 
+        // 1.2一个本地，对应两个仓库分支
+
     }
 
 }
