@@ -14,6 +14,7 @@ public class MainActivity extends Activity {
         LogUtils.e("mxg","Demo");
 
         // 调试AS的git版本控制
+
     }
 
 }
