@@ -25,6 +25,8 @@ public class MainActivity extends Activity {
 
         // 可以直接更新下来最新的文件吗？
 
+        // 什么情况？
+
     }
 
 }
