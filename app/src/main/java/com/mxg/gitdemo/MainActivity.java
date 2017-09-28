@@ -23,7 +23,7 @@ public class MainActivity extends Activity {
 
         // 回到正确的轨道上面来、
 
-        // 可以直接更新下来最新的文件吗？
+        // 可以直接更新下来最新的文件吗？ ----> 可以了吗？
 
     }
 
